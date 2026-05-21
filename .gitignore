@@ -5,4 +5,4 @@
 **/criterion/*/new
 
 .DS_Store
-.env
+.envconfig.toml
